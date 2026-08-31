@@ -1,2 +1,1 @@
-hello from feature2
-new feature
+hello from master + new feature
